@@ -2,20 +2,25 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-alert-container {}
+.alert-container {}
 
-callout-container {}
+.callout-container {
+  height: 100vh;
 
-quotes-container {
-    height: 100vh;
-
-  background: url(../images/whiskey-background.jpg) no-repeat center center fixed; 
+  background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
 }
 
-features-container {}
+.quotes-container {}
 
-favorites-container {}
+.features-container {}
+
+.favorites-container {}
