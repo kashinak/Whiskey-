@@ -54,11 +54,24 @@ body {
     padding-right: 0;
     z-index: 1;
 }
+
 .navbar {
     margin-bottom: 0;
     border: 0;
     width: 100%;
     background-color: rgba (0,0,0,0.25);
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav {
+    font-weight: bold;
 }
 
 /* Jumbotron */
@@ -105,4 +118,6 @@ body {
     background-color: #a52206;
     border-color: #a52206;
 }
+
+
 
