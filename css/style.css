@@ -25,6 +25,15 @@ body {
 
 .favorites-container {}
 
+/* Block Dividers */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #ad3e0a;
+}
+
 /* Jumbotron */
 
 .jumbotron {
