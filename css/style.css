@@ -2,8 +2,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.alert-container {}
-
 .callout-container {
   height: 100vh;
 
@@ -16,14 +14,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
-
-.quotes-container {}
-
-.features-container {}
-
-.favorites-container {}
 
 /* Block Dividers */
 
@@ -34,19 +25,16 @@ body {
     background-color: #e65b1a;
 }
 
-.block-divider--orange {
+.block-divider-orange {
     background-color: #e65b1a;
 }
 
-.block-divider--short {
-    width: 35px;
-{
 
 /* Jumbotron */
 
 .jumbotron {
     background-color: transparent;
-}   
+}
 
 .jumbotron-header {
     color: white;
