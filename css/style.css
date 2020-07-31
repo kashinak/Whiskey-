@@ -29,6 +29,9 @@ body {
     background-color: #e65b1a;
 }
 
+.block-divider-short {
+    width: 35px;
+}
 
 /* Jumbotron */
 
