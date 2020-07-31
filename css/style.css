@@ -31,14 +31,22 @@ body {
     width: 75px;
     height: 5px;
     border: 0;
-    background-color: #ad3e0a;
+    background-color: #e65b1a;
 }
+
+.block-divider--orange {
+    background-color: #e65b1a;
+}
+
+.block-divider--short {
+    width: 35px;
+{
 
 /* Jumbotron */
 
 .jumbotron {
     background-color: transparent;
-}
+}   
 
 .jumbotron-header {
     color: white;
