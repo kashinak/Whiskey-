@@ -205,6 +205,11 @@ body {
 .table {
     color: #c8d4e0;
 }
+
+.table thead tr {
+    background-color: white;
+    color: grey;
+}
     
 
 
